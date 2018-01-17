@@ -1,0 +1,6 @@
+target 'TestAXWebViewControllerAlert' do
+
+pod 'AXWebViewController'
+use_frameworks!
+
+end
